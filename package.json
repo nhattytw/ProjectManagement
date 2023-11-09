@@ -1,0 +1,24 @@
+{
+  "name": "projectmanagement",
+  "version": "1.0.0",
+  "description": "A Project Management Web Application created with GraphQL and MERN stack with MaterialUI.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nhattytw/ProjectManagement.git"
+  },
+  "keywords": [
+    "MERN",
+    "MaterialUI",
+    "GraphQL"
+  ],
+  "author": "Nathnael Tesfaye Woldekidan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nhattytw/ProjectManagement/issues"
+  },
+  "homepage": "https://github.com/nhattytw/ProjectManagement#readme"
+}
